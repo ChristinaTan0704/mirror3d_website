@@ -87,6 +87,47 @@ hr {
   user-select: none;
 }
 
+
+.school {
+  margin: 0 20px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size: 23px;
+}
+
+
+
+.author {
+  margin: 0 20px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-size: 23px;
+}
+
+one-author{
+  display: block;
+}
+
 .menu {
   position: relative;
   margin: 0 auto;
@@ -267,7 +308,7 @@ hr {
 }
 
 .badge-text {
-  font-size: 30px;
+  font-size: 40px;
   font-weight: 700;
 }
 
