@@ -74,6 +74,7 @@ hr {
 }
 
 .menu-container {
+  display: NONE;
   z-index: 2;
   position: relative;
   width: 100%;
