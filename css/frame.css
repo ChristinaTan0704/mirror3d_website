@@ -749,6 +749,8 @@ ol.nested>li:before {
 
 .add-top-margin {
   margin-top: 15px;
+  margin-bottom: 5px;
+
 }
 
 .add-top-margin-small {
