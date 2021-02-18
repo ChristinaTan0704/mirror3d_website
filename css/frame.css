@@ -152,7 +152,7 @@ hr {
 
 .one-source{
   display: block;
-  text-decoration:underline;
+  /* text-decoration:underline; */
 }
 
 .one-author{
