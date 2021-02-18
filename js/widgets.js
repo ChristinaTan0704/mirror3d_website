@@ -335,7 +335,7 @@
       var copy = document.getElementById(element_id);
       // Select the text field
       copy.select();
-      copy.setSelectionRange(0, 99999); /*For mobile devices*/
+      // copy.setSelectionRange(0, 99999); /*For mobile devices*/
       // Copy the text inside the text field
       document.execCommand("copy");
     }
